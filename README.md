@@ -14,4 +14,5 @@ We do the following steps
 
 ## Clustering
 We test k-means clustering for several k values
+
 We plot the Graph of SSE vs number of clusters for visualization
