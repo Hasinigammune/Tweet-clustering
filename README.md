@@ -1,8 +1,6 @@
 # Tweet-clustering
 
-Dataset used: ''foxnewshealth.txt'' 
-dataset (https://archive.ics.uci.edu/dataset/438/health+news+in+twitter)
-Dataset is stored in Google Drive and a url is given in the code.
+Dataset used: ''foxnewshealth.txt'' (https://archive.ics.uci.edu/dataset/438/health+news+in+twitter). Dataset is stored in Google Drive and a url is given in the code.
 
 ## Preprocessing Data
 We do the following steps
@@ -13,6 +11,4 @@ We do the following steps
 5. Convert every word to lowercase
 
 ## Clustering
-We test k-means clustering for several k values
-
-We plot the Graph of SSE vs number of clusters for visualization
+We test k-means clustering for several k values. We plot the Graph of SSE vs number of clusters for visualization
